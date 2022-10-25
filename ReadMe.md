@@ -2,7 +2,7 @@
 
 This is a place for you to do some simple projects for me.  
 
-I will start really simple, then buoild up complexity.  
+I will start really simple, then buoild up in complexity.  
 
 Eventually, you will build a program that I have been thinking about.  You may even be able to market it!
 
